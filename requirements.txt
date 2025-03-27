@@ -1,0 +1,10 @@
+pandas
+faker==19.3.0
+uuid==1.30
+logging
+pathlib
+datetime
+boto3
+botocore
+pyarrow
+dotenv

@@ -1,0 +1,5 @@
+.env
+.$Arquitectura.drawio.bkp
+logs/*
+data_sources/*
+.venv/*

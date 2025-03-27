@@ -106,10 +106,10 @@ Once the Gold layer is complete, data can be consumed via:
 ✅ Bronze, Silver, Gold scripts working with test data.  
 📦 S3-ready Parquet layers generated.  
 📘 Still evolving: 
-    **more fact tables and modeling features to come.**
-    **lambda function to COPY from Gold layer to Redshift**
-    **modeling and implementation of the Datawarehouse in Redshift**
-    **develop a DataViz project to consume the data**
+    **More fact tables and modeling features to come.**
+    **Lambda function to COPY from Gold layer to Redshift**
+    **Modeling and implementation of the Datawarehouse in Redshift**
+    **Develop a DataViz project to consume the data**
 
 ---
 
